@@ -17,7 +17,11 @@ An open-source crypto currency exchange
 [![Day Downloads](https://img.shields.io/npm/dy/hacktimer.svg)](https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange)
 
 ### Introduction 
-Fork of Peatio aimed at providing an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency. The first live instance will supoprt promotion and adoption of 0xBitcoin that combines groundbreaking features of Bitcoin with capabilities of Ethereum.
+Fork of Peatio aimed at providing an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency.
+
+The first live instance will provide a user friendly, non-geeky trading experience. The exchange is community-based, non-corporate one and will support promotion and adoption of 0xBitcoin.
+
+0xBitcoin combines groundbreaking features of Bitcoin with capabilities of Ethereum.
 
 ### Recently done / News
 
@@ -32,20 +36,12 @@ NOTE: it is critical you launch this with "SOURCE" not "SH" not "BASH" etc
 NOTE2: less than 4GB of ram you should disable the line that reads bitcoind or you wont have enough memory to launch the page
 
 •Multi Server Support https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange/blob/master/MultiServerReadme.md
-•Merge in welcome page from coinxpro.com [![RELEASE]()(https://github.com/scatterp/peatio/https://github.com/scatterp/peatio/tree/testcoinx)]
 
-### Todo (Coming soon in priority order)
 
-•payment processing
+### Todo
 
-•Investigate PoxA or socket.io as a pusher replacement
-
-•all code has refactored 
-
-•JRuby compatability and executes faster than previous versions at every step 
-
-•FIX financial information exchange API  added to bring the support of the entire financial eco system allowing for trading clients banks etc to connect with the exchange
-
+- Add 0xBitcoin support
+-
 
 README in English
 =====================================
