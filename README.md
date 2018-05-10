@@ -17,11 +17,14 @@ An open-source crypto currency exchange
 [![Day Downloads](https://img.shields.io/npm/dy/hacktimer.svg)](https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange)
 
 ### Introduction 
-Fork of Peatio aimed at providing an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency.
+Fork of Peatio that will provide an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency.
 
-The first live instance will provide a user friendly, non-geeky trading experience. The exchange is community-based, non-corporate one and will support promotion and adoption of 0xBitcoin.
+0xbitcoin-exchange focuses on 0xbitcoin supoprt and user friendly, non-geeky trading experience.
 
-0xBitcoin combines groundbreaking features of Bitcoin with capabilities of Ethereum.
+The exchange in https://0xbitcoin.exchange (not live, sorry folks) is community-based, non-corporate one and it proceedings will support promotion and adoption of 0xBitcoin.
+
+~ 0xBitcoin combines groundbreaking features of Bitcoin with capabilities of Ethereum ~
+
 
 ### Recently done / News
 
@@ -49,10 +52,4 @@ Peatio is a free and open-source crypto currency exchange implementation with th
 
 [README in ENGLISH](README-English.md)
 
-README en Español
-=======================================
-**En traduccion**
 
-Peatio es un software libre y open-source para la implementación de una Exchange de divisas
-
-[README en Español](README-Español.md)
