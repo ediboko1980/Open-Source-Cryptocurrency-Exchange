@@ -21,7 +21,7 @@ This branch is a fork of Peatio that will provide an open source cryptocurrency 
 
 0xbitcoin-exchange focuses on 0xbitcoin supoprt and user friendly, non-geeky trading experience.
 
-The exchange in https://0xbitcoin.exchange (not live, sorry folks) is community-based, non-corporate one and it proceedings will support promotion and adoption of 0xBitcoin.
+The exchange in http://0xbitcoin.exchange (not live, sorry folks) is community-based, non-corporate one and it proceedings will support promotion and adoption of 0xBitcoin.
 
 ~ 0xBitcoin combines groundbreaking features of Bitcoin with capabilities of Ethereum ~
 
