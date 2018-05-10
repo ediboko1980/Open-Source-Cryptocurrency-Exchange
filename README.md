@@ -17,7 +17,7 @@ An open-source crypto currency exchange
 [![Day Downloads](https://img.shields.io/npm/dy/hacktimer.svg)](https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange)
 
 ### Introduction 
-Fork of Peatio that will provide an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency.
+This branch is a fork of Peatio that will provide an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency.
 
 0xbitcoin-exchange focuses on 0xbitcoin supoprt and user friendly, non-geeky trading experience.
 
