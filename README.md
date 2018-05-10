@@ -19,7 +19,7 @@ An open-source crypto currency exchange
 ### Introduction 
 This branch is a fork of Peatio that will provide an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency.
 
-0xbitcoin-exchange focuses on 0xbitcoin supoprt and user friendly, non-geeky trading experience.
+0xbitcoin-exchange focuses on 0xbitcoin support and user friendly, non-geeky trading experience.
 
 The exchange in http://0xbitcoin.exchange (not live, sorry folks) is community-based, non-corporate one and it proceedings will support promotion and adoption of 0xBitcoin.
 
