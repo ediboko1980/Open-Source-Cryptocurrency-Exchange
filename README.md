@@ -50,6 +50,6 @@ README in English
 =====================================
 Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
 
-[README in ENGLISH](README-English.md)
+[ORIGINAL PEATIO README](README-English.md)
 
 
