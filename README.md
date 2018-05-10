@@ -17,21 +17,9 @@ An open-source crypto currency exchange
 [![Day Downloads](https://img.shields.io/npm/dy/hacktimer.svg)](https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange)
 
 ### Introduction 
-   welcome to the most advanced peatio release available .also various UI and visual fixes have been added
-   (more to come) and a market making system which will provide a trading partner for your users.
-   please feel free to post issues and they will be handled rapidly.
+Fork of Peatio aimed at providing an open source cryptocurrency exchange platform that uses 0xBitcoin (https://0xbitcoin.org/) as the default base currency. The first live instance will supoprt promotion and adoption of 0xBitcoin that combines groundbreaking features of Bitcoin with capabilities of Ethereum.
 
 ### Recently done / News
-
-•Enhanced spanish support
-
-•fix security issues
-
-•revert config/application.rb
-•revert config/initializers/pusher.rb
-•revert doc/deploy-production-server.md
-
-•Multi Server Support https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange/blob/master/MultiServerReadme.md
 
 •Installer with minimal steps:
 
@@ -43,6 +31,7 @@ An open-source crypto currency exchange
 NOTE: it is critical you launch this with "SOURCE" not "SH" not "BASH" etc
 NOTE2: less than 4GB of ram you should disable the line that reads bitcoind or you wont have enough memory to launch the page
 
+•Multi Server Support https://github.com/Gensia/Open-Source-Cryptocurrency-Exchange/blob/master/MultiServerReadme.md
 •Merge in welcome page from coinxpro.com [![RELEASE]()(https://github.com/scatterp/peatio/https://github.com/scatterp/peatio/tree/testcoinx)]
 
 ### Todo (Coming soon in priority order)
