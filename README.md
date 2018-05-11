@@ -32,7 +32,7 @@ The exchange in http://0xbitcoin.exchange (not live, sorry folks) is community-b
 
       sudo adduser deploy
       sudo usermod -a -G sudo deploy
-      wget https://raw.githubusercontent.com/Gensia/Open-Source-Cryptocurrency-Exchange/master/install1.sh
+      wget https://raw.githubusercontent.com/0xbitcoin-exchange/Open-Source-Cryptocurrency-Exchange/master/install1.sh
       source install1.sh
 
 NOTE: it is critical you launch this with "SOURCE" not "SH" not "BASH" etc
